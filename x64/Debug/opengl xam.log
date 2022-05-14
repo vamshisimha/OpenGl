@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\bsp\clg\opengl xam\Main.cpp(44,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\bsp\clg\opengl xam\Main.cpp(44,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  opengl xam.vcxproj -> D:\bsp\clg\opengl xam\x64\Debug\opengl xam.exe
